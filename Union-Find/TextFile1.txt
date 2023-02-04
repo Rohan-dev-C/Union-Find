@@ -1,0 +1,78 @@
+﻿[
+    {
+        "FriendA": "Joey",
+        "FriendB": "Chandler"
+    },
+    {
+        "FriendA": "Joey",
+        "FriendB": "Ross"
+    },
+    {
+        "FriendA": "Phoebe",
+        "FriendB": "Rachel"
+    },
+    {
+        "FriendA": "Rachel",
+        "FriendB": "Monica"
+    },
+    {
+        "FriendA": "Phoebe",
+        "FriendB": "Joey"
+    },
+    {
+        "FriendA": "Chandler",
+        "FriendB": "Monica"
+    },
+    {
+        "FriendA": "Michael",
+        "FriendB": "Jim"
+    },
+    {
+        "FriendA": "Michael",
+        "FriendB": "Ryan"
+    },
+    {
+        "FriendA": "Michael",
+        "FriendB": "Phyllis"
+    },
+    {
+        "FriendA": "Jim",
+        "FriendB": "Darryl"
+    },
+    {
+        "FriendA": "Jim",
+        "FriendB": "Pam"
+    },
+    {
+        "FriendA": "Jim",
+        "FriendB": "Dwight"
+    },
+    {
+        "FriendA": "Ryan",
+        "FriendB": "Meredith"
+    },
+    {
+        "FriendA": "Ryan",
+        "FriendB": "Kelly"
+    },
+    {
+        "FriendA": "Phyllis",
+        "FriendB": "Stanley"
+    },
+    {
+        "FriendA": "Phyllis",
+        "FriendB": "Kevin"
+    },
+    {
+        "FriendA": "Pam",
+        "FriendB": "Toby"
+    },
+    {
+        "FriendA": "Dwight",
+        "FriendB": "Angela"
+    },
+    {
+        "FriendA": "Kevin",
+        "FriendB": "Oscar"
+    }
+]
